@@ -3,6 +3,7 @@
 
 ![Image](/img/mainLogoOrange.png)
 ## 📝 <span style="color:#FF9F1C">프로젝트 소개</span>
+> 2022 KMUCS 다학제간캡스톤디자인 최우수상(1위) 수상
 
 **How Cook** : 재료 이미지 인식을 통한 레시피 추천 서비스
 
